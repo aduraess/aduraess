@@ -1,16 +1,16 @@
 <h1>✨ Hi There ✨</h1>
 
+- 📫 Reach me at **aline.jduraess@gmail.com**
+
+- 👩‍💻 All of my Programming projects are available [here](https://github.com/aduraess)
+
+- 🧑‍🎨 All of my Design projects are available [here](https://www.behance.net/alineduraess)
+
 - 🌱 I’m currently learning **Front-end Languages**
 
-- 🔭 Also working on [my portfolio website](https://xd.adobe.com/view/2eba5e7b-2e8e-49b0-88fd-2c77f060c489-7be9/?fullscreen)
+- 🔭 Also working on my portfolio [website](https://xd.adobe.com/view/2eba5e7b-2e8e-49b0-88fd-2c77f060c489-7be9/?fullscreen)
 
-- 👩‍💻 My programming projects are available at [https://github.com/aduraess](https://github.com/aduraess)
-
-- 🧑‍🎨 My design projects are available at [https://www.behance.net/alineduraess](https://www.behance.net/alineduraess)
-
-- 📫 Reach me **aline.jduraess@gmail.com**
-
-I’ve always been a dreamer and look to travel the world, live and experience different places, cultures, and meet other people. I’m living in Lisbon, but I consider myself a citizen of the world, but forever a Brazilian kid. Hope you like my stuff... See ya 👋
+I’ve always been a dreamer and look to travel the world, live and experience different places, cultures, and meet other people.<br>I’m living in Lisbon, but I consider myself a citizen of the world, but forever a Brazilian kid. Hope you like my stuff... See ya 👋
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
