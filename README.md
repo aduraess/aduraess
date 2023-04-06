@@ -2,15 +2,15 @@
 
 - 📫 Reach me at **aline.jduraess@gmail.com**
 
-- 👩‍💻 All of my Programming projects are available [here](https://github.com/aduraess)
+- 👩‍💻 Programming projects [here](https://github.com/aduraess)
 
-- 🧑‍🎨 All of my Design projects are available [here](https://www.behance.net/alineduraess)
+- 🧑‍🎨 Design projects [here](https://www.behance.net/alineduraess)
 
-- 🌱 I’m currently learning **Front-end Languages**
+- 🌱 I’m currently learning **Front-end Languages** (to pursue in this area)
 
 - 🔭 Also working on my portfolio [website](https://xd.adobe.com/view/2eba5e7b-2e8e-49b0-88fd-2c77f060c489-7be9/?fullscreen)
 
-I’ve always been a dreamer and look to travel the world, live and experience different places, cultures, and meet other people.<br>I’m living in Lisbon, but I consider myself a citizen of the world, but forever a Brazilian kid. Hope you like my stuff... See ya 👋
+I’ve always been a dreamer and look to travel the world, live and experience different places, cultures, and meet other people.<br>I’m living in Lisbon, but I consider myself a citizen of the world, but forever a Brazilian kid. Hope you like my stuff...
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,4 @@ I’ve always been a dreamer and look to travel the world, live and experience d
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alineduraess"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/alineduraess" /></a></p><br><br>
 <br>
 <br>
-⚡ Thanks for Visiting ⚡
+⚡ Thanks for Visiting, See ya 👋 ⚡
