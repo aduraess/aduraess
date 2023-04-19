@@ -2,9 +2,9 @@
 
 - 📫 Reach me at **aline.jduraess@gmail.com**
 
-- 👩‍💻 Programming projects [here](https://github.com/aduraess)
+- 👩‍💻 Programming [projects](https://github.com/aduraess)
 
-- 🧑‍🎨 Design projects [here](https://www.behance.net/alineduraess)
+- 🧑‍🎨 Design [projects](https://www.behance.net/alineduraess)
 
 - 🌱 I’m currently learning **Front-end Languages** (to pursue in this area)
 
