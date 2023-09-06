@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front-end Languages** (to pursue in this area)
 
-- 🔭 Also working on my portfolio [website](https://xd.adobe.com/view/2eba5e7b-2e8e-49b0-88fd-2c77f060c489-7be9/?fullscreen)
+- 🔭 Also working on my portfolio
 
 I’ve always been a dreamer and look to travel the world, live and experience different places, cultures, and meet other people.<br>I’m living in Lisbon, but I consider myself a citizen of the world, but forever a Brazilian kid. Hope you like my stuff...
 <br>
